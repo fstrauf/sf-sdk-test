@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "10.x.x"
+  },
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/cloud-sdk-core": "^1.7.0",
+    "@sap/xssec": "^2.2.3",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  }
+}

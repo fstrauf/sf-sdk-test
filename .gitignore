@@ -1,0 +1,5 @@
+myapp/node_modules/
+web/node_modules/
+.npm
+.env
+.DS_Store

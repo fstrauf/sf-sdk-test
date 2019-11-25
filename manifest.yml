@@ -1,0 +1,16 @@
+---
+applications:
+- name: myapp
+  path: myapp
+  memory: 128M
+  services:
+    - sfsdkdest
+    - sfsdkuaa
+  env:
+    apiDest: sfdemo
+- name: web
+  path: web
+  memory: 128M
+  services:
+    - sfsdkdest
+    - sfsdkuaa
