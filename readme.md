@@ -1,8 +1,4 @@
-## Woodside background navigation
-
-sf readme
-
-lastName
+## background navigation
 
 https://apisalesdemo2.successfactors.eu/odata/v2/User('102010')?$format=json
 
@@ -45,14 +41,6 @@ https://salesdemo/idp/samlmetadata?company=SFSALES006097
 https://anz-ibso-presales.authentication.us30.hana.ondemand.com/saml/metadata
 
 https://us30.hana.ondemand.com
-
-
-ID: https___anz-ibso-presales.authentication.us30.hana.ondemand.com
-POST: https://anz-ibso-presales.authentication.us30.hana.ondemand.com/saml/SingleLogout/alias/anz-ibso-presales.gcp-us30
-https://anz-ibso-presales.authentication.us30.hana.ondemand.com/saml/SSO/alias/anz-ibso-presales.gcp-us30
-
-https://salesdemo.successfactors.eu/provisioning_sci_email_confirm?_s.crb=tqxa4jCYbAZJM8zebDmnq2lCy50%253d
-
 
 # Generate a VDM service
 SF does not seem to have ready to use services.
